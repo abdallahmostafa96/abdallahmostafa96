@@ -2,7 +2,7 @@
 <h1>Hi there, I'm Abdallah 👋🏻</h1>
 <details>
   <summary>
-    👨‍💻 I'm a software developer , I work in the field of embedded systems,,,,
+    💻 I'm a software developer , I work in the field of embedded systems,,,,
   </summary>
   <br/>
 
