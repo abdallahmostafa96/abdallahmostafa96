@@ -1,5 +1,5 @@
 
-
+<h2>Hi there, I'm Abdallah 👋🏻</h2>
 <details>
   <summary>
     👨‍💻 I'm a software developer who enjoys learning new languages, libraries, and frameworks. I'm currently learning: 
@@ -19,7 +19,12 @@
 </details>
 
 
-<picture>
+
+      
+<details>
+  <summary>📈 My GitHub Stats: </summary>
+  
+  <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
@@ -31,18 +36,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
-      
-<details>
-  <summary>📈 My GitHub Stats: </summary>
-  <br/>
-  <div>
-        <div align="right">
-          <img src="cat.gif" width="60" height="60" />
-
-        </div>
-  </div>
 </details>
 
 
-
+   <div align="right">
+          <img src="cat.gif" width="150" height="150" />
+  
+   <div align="right">
+          <img src="cat.gif" width="150" height="150" />
 
