@@ -1,8 +1,8 @@
 
-<h2>Hi there, I'm Abdallah 👋🏻</h2>
+<h5>Hi there, I'm Abdallah 👋🏻</h5>
 <details>
   <summary>
-    👨‍💻 I'm a software developer who enjoys learning new languages, libraries, and frameworks. I'm currently learning: 
+    👨‍💻 I'm a software developer , I work in the field of embedded systems,,,,
   </summary>
   <br/>
 
@@ -21,22 +21,18 @@
   </div>
 </details>
 
-
-
       
 <details>
-  <summary>📈 My GitHub Stats: </summary>
+ <summary>📈 My GitHub Stats: </summary>
   
-  <picture>
+<picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=abdallah&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
+  srcset="https://github-readme-stats.vercel.app/api?username=abdallahmostafa96&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"/>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=abdallah&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=abdallah&show_icons=true" />
+  srcset="https://github-readme-stats.vercel.app/api?username=abdallahmostafa96&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abdallahmostafa96&show_icons=true" />
 </picture>
 
 </details>
@@ -44,9 +40,8 @@
 
    <div align="right">
           <img src="cat.gif" width="150" height="150" />
-  
    <div align="center">
           <img src="cat.gif" width="150" height="150" />
-<div align="left">
+   <div align="left">
           <img src="cat.gif" width="150" height="150" />
 
