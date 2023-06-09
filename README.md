@@ -32,6 +32,16 @@
 </picture>
 
       
+<details>
+  <summary>📈 My GitHub Stats: </summary>
+  <br/>
+  <div>
+        <div align="right">
+          <img src="cat.gif" width="60" height="60" />
+
+        </div>
+  </div>
+</details>
 
 
 
