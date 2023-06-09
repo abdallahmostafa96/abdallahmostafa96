@@ -42,6 +42,6 @@
    <div align="right">
           <img src="cat.gif" width="150" height="150" />
   
-   <div align="right">
-          <img src="cat.gif" width="150" height="150" />
+   <div align="center">
+          <img src="giphy.gif" width="100" height="100" />
 
