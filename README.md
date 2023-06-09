@@ -39,9 +39,9 @@
 
 
    <div align="right">
-          <img src="cat.gif" width="150" height="150" />
+          <img src="./imgcat_li/cat.gif" width="150" height="150" />
    <div align="center">
-          <img src="cat.gif" width="150" height="150" />
+          <img src="./imgcat_li/cat.gif" width="150" height="150" />
    <div align="left">
-          <img src="cat.gif" width="150" height="150" />
+          <img src="./imgcat_li/cat.gif" width="150" height="150" />
 
