@@ -46,5 +46,7 @@
           <img src="cat.gif" width="150" height="150" />
   
    <div align="center">
-          <img src="giphy.gif" width="100" height="100" />
+          <img src="cat.gif" width="150" height="150" />
+<div align="left">
+          <img src="cat.gif" width="150" height="150" />
 
