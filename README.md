@@ -2,6 +2,7 @@
 <p align="center">
  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%> <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+There+,,,,,+welcome+to+my+Github;I'm+Abdallah;I'm+SoftWare+engineer;+♥♥♥"></a>
 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%></p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=abdallahmostafa96 alt=abdallahmostafa96 /> </p>
 
 <details>
   <summary>
