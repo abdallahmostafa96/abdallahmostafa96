@@ -1,8 +1,7 @@
 
-<h1>Hi there, I'm Abdallah <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%> </h1>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+SoftWare+engineer;+♥♥♥"></a>
-</p>
+ <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%> <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+There+,,,,,+welcome+to+my+Github;I'm+Abdallah;I'm+SoftWare+engineer;+♥♥♥"></a>
+<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%></p>
 
 <details>
   <summary>
@@ -40,16 +39,16 @@
     𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
   </summary>
 <a href="https://www.instagram.com/abdallahmostafa96/">
-  <img align="left" alt="abdallah's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
+<img align="left" alt="abdallah's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />abdallahmostafa96
+</a></br>
 <a href="https://twitter.com/abdallahfox96">
-  <img align="left" alt="abdallahfox96 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+<img align="left" alt="abdallahfox96 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />abdallahfox96
+</a></br>
 <a href="https://www.linkedin.com/in/abdallahmostafa96/">
-  <img align="left" alt="abdallahmostafa96's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-    
-<a href="https://discord.com/users/319301504328794113"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg">AM9#0007</a> 
+<img align="left" alt="abdallahmostafa96's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">abdallahmostafa96 
+</a></br>  
+<a href="https://discord.com/users/319301504328794113"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg">AM9#0007
+</a> 
   
  </details>
  
