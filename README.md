@@ -1,5 +1,6 @@
 
 <h1>Hi there, I'm Abdallah 👋🏻</h1>
+
 <a href="https://www.instagram.com/abdallahmostafa96/">
   <img align="left" alt="abdallah's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -12,7 +13,7 @@
 <a href="https://www.linkedin.com/in/abdallahmostafa96/">
   <img align="left" alt="abdallahmostafa96's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a><br/>
-
+<br>
 <details>
   <summary>
     💻 I'm a software developer , I work in the field of embedded systems,,,,
