@@ -4,9 +4,6 @@
 <a href="https://www.instagram.com/abdallahmostafa96/">
   <img align="left" alt="abdallah's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="[https://discord.gg/319301504328794113](https://discord.com/channels/@me)">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="https://twitter.com/abdallahfox96">
   <img align="left" alt="abdallahfox96 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
