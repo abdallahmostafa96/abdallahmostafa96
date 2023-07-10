@@ -10,7 +10,6 @@
   </summary>
   <br/>
 
-
   <div>
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)"/>
@@ -41,10 +40,11 @@
   <summary>
     𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
   </summary>
-<br><a href="https://www.instagram.com/abdallahmostafa96/"><img align="left" alt="abdallah's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />abdallahmostafa96</a></br>
+<br><a href="https://www.instagram.com/abdallahmostafa96/"><img align="left" alt="abdallah's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"/>abdallahmostafa96</a></br>
 <!--<br><a href="https://twitter.com/abdallahfox96"><img align="left" alt="abdallahfox96 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />abdallahfox96</a></br>-->
-<br><a href="https://www.linkedin.com/in/abdallahmostafa96/"><img align="left" alt="abdallahmostafa96's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">abdallahmostafa96 </a></br>  
-<br><a href="https://discord.com/users/319301504328794113"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg"> &nbsp &nbsp AM9#0007 </a> 
+<!-- <br><a href="https://www.linkedin.com/in/abdallahmostafa96/"><img align="left" alt="abdallahmostafa96's LinkedIN" width="22px"> </a> <img 
+ src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">abdallahmostafa96 </a></br>  -->
+<br><a href="https://discord.com/users/319301504328794113"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg">                 AM9#0007 </a> 
  <br> 
 <br>
 <br>
@@ -52,8 +52,6 @@
 
    <div align="center">
           <img src="./imgcat_li/cat.gif" width="150" height="150" />
-
-     
      
      
 
